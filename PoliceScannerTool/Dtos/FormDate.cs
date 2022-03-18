@@ -15,6 +15,9 @@ namespace PoliceScannerTool.Dtos
         }
         public int Year { get; set; }
         public int Month { get; set; }
-
+        public override string ToString()
+        {
+            return Year.ToString() + "-" + Month.ToString();
+        }
     }
 }

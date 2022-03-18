@@ -67,9 +67,16 @@ namespace PoliceScannerTool
 
         private void SearchButton_Click(object sender, EventArgs e)
         {
+            FormServices formServices = new FormServices();
             // Get and format inputs
+            int selectedYear = Convert.ToInt32(this.YearInput.Value);
+            int selectedMonth = Convert.ToInt32(this.MonthInput.Value);
+
             // Send API request
+            string crimeSummary = formServices.FindAndDisplayAllCrimeInLocation(this.LatitudeInput.Value, this.LongitudeInput.Value, new FormDate(selectedYear, selectedMonth));
+
             // Display result
+            this.OutputWindow.Text = crimeSummary;
         }
     }
 }

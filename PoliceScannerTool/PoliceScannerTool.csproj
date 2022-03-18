@@ -49,6 +49,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Dtos\SummaryItem.cs" />
+    <Compile Include="Dtos\OutcomeStatusDto.cs" />
+    <Compile Include="Dtos\StreetDto.cs" />
+    <Compile Include="Dtos\LocationDto.cs" />
+    <Compile Include="Dtos\CrimeDto.cs" />
     <Compile Include="Dtos\DateDto.cs" />
     <Compile Include="Dtos\FormDate.cs" />
     <Compile Include="Form1.cs">
