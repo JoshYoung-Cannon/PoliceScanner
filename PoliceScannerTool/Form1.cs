@@ -28,7 +28,7 @@ namespace PoliceScannerTool
             EndMonth = 12;
             SetupServices setup = new SetupServices();
             LatestDate = setup.GetLatestUpdate();
-            EarliestDate = new FormDate(2019, 2);
+            EarliestDate = new FormDate(2019, 2); // Testing with Postman has shown this is the earliest date the API returns a value for.
 
             this.YearInput.Maximum = LatestDate.Year;
             this.YearInput.Minimum = EarliestDate.Year;
