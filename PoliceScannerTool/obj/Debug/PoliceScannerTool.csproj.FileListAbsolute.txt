@@ -8,3 +8,6 @@ C:\Users\jyoun\Documents\GitHub\PoliceScanner\PoliceScanner\PoliceScannerTool\ob
 C:\Users\jyoun\Documents\GitHub\PoliceScanner\PoliceScanner\PoliceScannerTool\obj\Debug\PoliceScannerTool.csproj.CoreCompileInputs.cache
 C:\Users\jyoun\Documents\GitHub\PoliceScanner\PoliceScanner\PoliceScannerTool\obj\Debug\PoliceScannerTool.exe
 C:\Users\jyoun\Documents\GitHub\PoliceScanner\PoliceScanner\PoliceScannerTool\obj\Debug\PoliceScannerTool.pdb
+C:\Users\jyoun\Documents\GitHub\PoliceScanner\PoliceScanner\PoliceScannerTool\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jyoun\Documents\GitHub\PoliceScanner\PoliceScanner\PoliceScannerTool\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jyoun\Documents\GitHub\PoliceScanner\PoliceScanner\PoliceScannerTool\obj\Debug\PoliceScannerTool.csproj.CopyComplete
