@@ -1,6 +1,7 @@
 # PoliceScanner
  
 A simple tool that interacts with the UK police databse api.
+Tool executable can be found in the folder: PoliceScannerTool/bin/Release/
 
 # Requirements
 
