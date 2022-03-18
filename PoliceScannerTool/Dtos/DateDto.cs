@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace PoliceScannerTool.Dtos
 {
-    class DateDto
+    public class DateDto
     {
         public string Date { get; set; }
     }

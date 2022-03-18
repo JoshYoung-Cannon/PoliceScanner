@@ -10,7 +10,7 @@ using Newtonsoft.Json;
 
 namespace PoliceScannerTool.Services
 {
-    class API
+    public class API
     {
         public API()
         {

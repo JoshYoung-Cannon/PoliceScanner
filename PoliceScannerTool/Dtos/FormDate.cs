@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace PoliceScannerTool.Dtos
 {
-    class FormDate
+    public class FormDate
     {
         public FormDate(int year, int month)
         {
